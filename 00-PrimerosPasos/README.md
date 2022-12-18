@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Herramientas, programas y configuraciones necesarias para empezar el proceso del curso.
       </a>
     </td>
   </tr>
@@ -287,7 +287,7 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Equipo configurado con todas las herramientas y listo para empezar a codificar.
       </a>
     </td>
   </tr>
